@@ -22,6 +22,7 @@ nav{
     background-color: black;
     
 }
+
 nav ul li{
     display: inline-block;
     list-style: none;
@@ -76,3 +77,32 @@ img{
     border: 2px solid black;
     color: pink;
 }
+.Fonction{
+    text-align: center;
+}
+.tact{
+    text-align: center;
+}
+
+.rounded{
+    border-radius: 15px;
+    width: 500px;
+    color: black;
+}
+.round{
+    border-radius: 15px;
+    width: 400px;
+    height: 100px;
+}
+  
+  /* visited link */
+  a:visited {
+    color: pink;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: green;
+  }
+  
+  
